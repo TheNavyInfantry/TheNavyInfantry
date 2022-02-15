@@ -9,7 +9,7 @@
 
 - 💻 Looking to collaborate on **Python & Flask based projects**
 
-- 📝 Occasionaly write articles on <a href="https://medium.com/@nedimcanulusoy">medium.com</a>
+- 📝 You can find my articles on <a href="https://medium.com/@nedimcanulusoy">medium.com</a>
 
 ##
 
